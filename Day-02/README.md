@@ -50,7 +50,8 @@ Linux is an open-source, Unix-like operating system that powers a wide range of 
 - **`traceroute`**: Traces the route packets take to a network host.
 - **`nslookup`**: Queries internet domain name servers.
   
-#### 7. **Directory**:![Linux Directory Map](file:///C:/Users/hkana/Downloads/Linux%20directory%20.png)
+#### 7. **Directory**:
+![Linux Directory Map](https://github.com/HrishiK1107/Cybersecurity-90day-Journal/assets/166363838/18388dd1-22e3-4472-b593-61ae82416766)
 
   ---
   Stay tuned for daily updates with the latest cybersecurity resources.
