@@ -8,6 +8,7 @@ Welcome to the Cybersecurity Resources Repository, featuring a curated collectio
 ## [Day-1](https://github.com/HrishiK1107/Cybersecurity-90day-Journal/tree/main/Day-01): Introduction to Cyber-Security+Fundamentals
 ## [Day-2](https://github.com/HrishiK1107/Cybersecurity-90day-Journal/tree/main/Day-02): Introduction to Linux 
 ## [Day-3](https://github.com/HrishiK1107/Cybersecurity-90day-Journal/tree/main/Day-03): Introduction to Windows
+## [Day-4](https://github.com/HrishiK1107/Cybersecurity-90day-Journal/tree/main/Day-04): NMAP Scanning
 ---
 Stay tuned for daily updates with the latest cybersecurity resources.
 
