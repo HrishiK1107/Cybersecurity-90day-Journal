@@ -12,14 +12,14 @@ Today, we explored the Windows operating system, its features,its relevance in c
 
 #### 2. **Access Control Types, Permissions, and UAC**
 
-##### (i) **Access Control Types:**
-- Discretionary Access Control (DAC): Controls access based on the identity of the requester and the ownership of the resource.
-- Mandatory Access Control (MAC): Assigns access based on security labels assigned to each user and resource.
-- Role-Based Access Control (RBAC): Access is granted based on the roles users have within the system.
+- ##### **Access Control Types:**
+  - Discretionary Access Control (DAC): Controls access based on the identity of the requester and the ownership of the resource.
+  - Mandatory Access Control (MAC): Assigns access based on security labels assigned to each user and resource.
+  - Role-Based Access Control (RBAC): Access is granted based on the roles users have within the system.
 
-##### (ii) **Permissions:** Includes Read, Write, Execute, and Modify permissions for files and directories.
+- ##### **Permissions:** Includes Read, Write, Execute, and Modify permissions for files and directories.
 
-##### (iii) **User Account Control (UAC):** A security feature that helps prevent unauthorized changes to the operating system
+- ##### **User Account Control (UAC):** A security feature that helps prevent unauthorized changes to the operating system
 
 #### 3. **Windows Firewall and Windows Defender**
 - **Windows Firewall:** A built-in firewall that filters incoming and outgoing network traffic based on predefined security rules.
@@ -46,13 +46,24 @@ Today, we explored the Windows operating system, its features,its relevance in c
 - **System Administration:** Managing users, processes, and services using CMD and PowerShell.
 - **Basic Security Tasks:** Implementing security measures, checking system integrity, and monitoring for potential threats.
 
-### Practical Experience
+
+## Tool Used:
+### SpiderTool
+SpiderTool is an advanced cybersecurity tool designed for thorough web vulnerability scanning and penetration testing. It employs a robust set of scanning techniques to identify vulnerabilities in web applications, helping developers and security professionals mitigate potential risks effectively.
+
+#### Key Features:
+- **Comprehensive Scanning:** Detects a wide range of vulnerabilities, including SQL injection, cross-site scripting (XSS), and more.
+- **Customizable Tests:** Allows users to configure scans based on specific needs and security requirements.
+- **Detailed Reporting:** Generates detailed reports with actionable insights and remediation recommendations.
+- **User-Friendly Interface:** Intuitive dashboard and command-line interface (CLI) for ease of use.
+- **Active Community:** Supported by a vibrant community for updates, support, and collaboration.
+
+## Practical Experience
 
 We were fortunate enough to witness a demonstration of how malware can affect a system and bypass Windows Defender. This included:
 - **Understanding Malware Behavior:** Observing how malware operates and spreads within a system.
 - **Bypassing Windows Defender:** Techniques used by malware to evade detection and mitigation by Windows Defender.
 - It also highlights the need for robust incident response plans and security awareness training to effectively combat sophisticated cyber threats.
-
 ---
 Stay tuned for daily updates with the latest cybersecurity resources.
 
