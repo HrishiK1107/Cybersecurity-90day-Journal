@@ -2,7 +2,7 @@
 
 Welcome to the Cybersecurity Resources-Repository. This repository includes a curated collection of notes, commands, and tools essential for cybersecurity professionals. It will be continuously updated over the next 90 days to ensure you have access to the most current and relevant information. Stay informed and enhance your cybersecurity expertise with these valuable resources.
 
-## Day 3: NMAP Scanning 
+## Day 4: NMAP Scanning 
 This is a comprehensive guide for using Nmap, a powerful network scanning tool used for network discovery and security auditing. Below you'll find various techniques and commands to help you carry out successful Nmap scans.
 
 #### **Syntax**: `nmap[Scan Type(s)][Options]{target specification}`
