@@ -2,7 +2,7 @@
 
 Welcome to the Cybersecurity Resources-Repository. This repository includes a curated collection of notes, commands, and tools essential for cybersecurity professionals. It will be continuously updated over the next 90 days to ensure you have access to the most current and relevant information. Stay informed and enhance your cybersecurity expertise with these valuable resources.
 
-## Day 1: Introduction to Cybersecurity 
+## Day 1: Introduction to Cybersecurity + Fundamentals
 
 ### Topics Discussed 
 
